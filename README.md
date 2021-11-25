@@ -1,0 +1,2 @@
+# Garantias
+Checkeo de Garantias
